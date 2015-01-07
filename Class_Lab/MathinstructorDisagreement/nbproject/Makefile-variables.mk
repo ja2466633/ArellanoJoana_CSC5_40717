@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=Cygwin_4.x-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin_4.x-Windows
-CND_ARTIFACT_NAME_Debug=mathinstructiondisagreement
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/mathinstructiondisagreement
+CND_ARTIFACT_NAME_Debug=mathinstructordisagreement
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/mathinstructordisagreement
 CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin_4.x-Windows/package
-CND_PACKAGE_NAME_Debug=mathinstructiondisagreement.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/package/mathinstructiondisagreement.tar
+CND_PACKAGE_NAME_Debug=mathinstructordisagreement.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/package/mathinstructordisagreement.tar
 # Release configuration
 CND_PLATFORM_Release=Cygwin_4.x-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/Cygwin_4.x-Windows
-CND_ARTIFACT_NAME_Release=mathinstructiondisagreement
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin_4.x-Windows/mathinstructiondisagreement
+CND_ARTIFACT_NAME_Release=mathinstructordisagreement
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin_4.x-Windows/mathinstructordisagreement
 CND_PACKAGE_DIR_Release=dist/Release/Cygwin_4.x-Windows/package
-CND_PACKAGE_NAME_Release=mathinstructiondisagreement.tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin_4.x-Windows/package/mathinstructiondisagreement.tar
+CND_PACKAGE_NAME_Release=mathinstructordisagreement.tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin_4.x-Windows/package/mathinstructordisagreement.tar
 #
 # include compiler specific variables
 #
