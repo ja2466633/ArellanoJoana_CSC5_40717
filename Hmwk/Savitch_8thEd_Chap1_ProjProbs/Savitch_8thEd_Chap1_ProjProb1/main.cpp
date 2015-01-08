@@ -10,18 +10,18 @@
 #include <iostream>
 using namespace std;
 
-// User Libraries
+//User Libraries
 //Global Constants
 //Function Prototypes
 
-//ExExecution begins here!
+//Execution begins here!
 int main()
 {
     int numofpods, peasperpod, totalpeas;
     //Output Prompt for input
     cout << "Press return after entering a number.\n";
     cout << "Enter the number of pods:\n";
-    //Input number_of_pods
+    //Input number of pods
     cin >> numofpods;
     //Output Prompt for input
     cout << "Enter the number of peas in a pod:\n";
@@ -38,7 +38,7 @@ int main()
     cout << "you have ";
     cout << totalpeas;
     cout << " peas in all the pods.\n";
-    //Exit stage right
+    //Exit stage 
     
     return 0;
 }
