@@ -77,7 +77,6 @@ int main()
         if (inptAgn=='N'||inptAgn=='n')
         {
             cout<<"Good Bye!.\n";
-            break;
         }
     } while(inptAgn !='N'||inptAgn !='n');
     
