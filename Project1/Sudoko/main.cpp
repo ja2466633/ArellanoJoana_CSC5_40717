@@ -31,7 +31,7 @@ int main(int argc, char** argv)
     cin>>instNed;
     if(instNed=='Y'||instNed=='y'){
         cout<<"Sudoko is a logic-based number-placement game.The objective is ";
-        cout<<"to fill a 9×9 grid with digits so that each column,each row \n";
+        cout<<"to fill a 9X9 grid with digits so that each column,each row \n";
         cout<<"and each of the nine 3×3 sub-grids that compose the grid ";
         cout<<"contains all of the digits from 1 to 9 without any number being";
         cout<<" repeated."<<endl;
@@ -43,4 +43,3 @@ int main(int argc, char** argv)
     
     return 0;
 }
-
